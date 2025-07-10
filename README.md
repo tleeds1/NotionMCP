@@ -1,6 +1,6 @@
 # NotionMCP Server
 
-A Python server that integrates [MCP](https://github.com/microsoft/mcp) with [Notion](https://www.notion.so/) to automate PR analysis and documentation workflows.
+A Python server that integrates [MCP](https://github.com/microsoft/mcp) with [Notion](https://www.notion.so/) to automate documentation workflows and manage Notion via LLMs.
 
 ## Features
 
